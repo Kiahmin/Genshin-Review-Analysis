@@ -1,5 +1,6 @@
 #Genshin Review Analysis
 *This project is still underway and is yet to be completed
+
 Welcome to the Genshin Review Analysis repository! This project is dedicated to analyzing player reviews of the popular action role-playing game, Genshin Impact, developed by HoYoverse. Our goal is to extract valuable insights from user feedback to understand player sentiments, identify common themes about the gaming experience.
 
 Project Overview
