@@ -6,11 +6,9 @@ Welcome to the Genshin Review Analysis repository! This project is dedicated to 
 
 Genshin Impact has garnered a massive player base since its release, resulting in a wealth of user-generated reviews across various platforms. By leveraging data analysis and visualization techniques, this project aims to:
 
-## Analyze Player Sentiments
-
-Perform sentiment analysis on user reviews to gauge the overall mood and satisfaction levels of the player community.
-Identify Key Themes: Extract and categorize common topics and issues mentioned in the reviews, such as game mechanics, character design, storyline, and monetization.
-Visualize Insights: Create dashboards using Tableau/python to present the findings in an accessible and informative manner.
+- Perform sentiment analysis on user reviews to gauge the overall mood and satisfaction levels of the player community.
+- Identify Key Themes: Extract and categorize common topics and issues mentioned in the reviews, such as game mechanics, character design, storyline, and monetization.
+- Visualize Insights: Create visualisations to present the findings in an accessible and informative manner.
 
 ## Data Sources
 
