@@ -17,5 +17,7 @@ The data for this project is webscraped and collected from the Apple App Store.
 ## Features
 
 Sentiment Analysis: Understand the distribution of positive, negative, and neutral reviews using natural language processing (NLP) techniques.
+
 Topic Modeling: Identify prominent themes and topics discussed by players through techniques like LDA (Latent Dirichlet Allocation).
+
 Visulisations: Visualize the analysis results, enabling easy exploration of the data and insights.
